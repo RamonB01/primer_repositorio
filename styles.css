@@ -1,0 +1,15 @@
+.contenedor {
+    color: blue;
+    background-color: black;
+}
+
+
+.footer {
+    background-color: burlywood;
+    height: 100px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
